@@ -1,8 +1,5 @@
 #  rsschool-cv
-------
 # Vasily Skryabin
-![alt-фото](https://cloud.mail.ru/home/2uEUIeM9_3bwt_aZmoqzX5un9EuPf-DNnA76y0vAbgKHuiuUre4OvhuYlZ1xZPINaUv1RDvh.jpg "photo")
-------
 ### Contact information:
 + Telephone number: +79822717684
 + E-mail: devil-zmey@mail.ru 
@@ -42,6 +39,5 @@ describe("Multiply", () => {
 ------
 ##### Courses
 JS / Front-end RU Course
--------
 #### Languages
-English B1: : Pre-Intermediate
+English B1:  Pre-Intermediate
