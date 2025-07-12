@@ -39,6 +39,5 @@ describe("Multiply", () => {
 ------
 ##### Courses
 JS / Front-end RU Course
-------
 #### Languages
 English B1:  Pre-Intermediate
