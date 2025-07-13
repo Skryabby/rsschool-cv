@@ -1,5 +1,7 @@
 body {
-    background-color: rgb(150, 221, 80);
+margin: 0;
+padding: 0;
+background-color: rgb(150, 221, 80);
 font-style: oblique;
 color: #0e0d0d;
 }
@@ -8,3 +10,11 @@ img {
 width: 350px;
 height: 350px;
 }
+
+.container {
+max-width: 960px;
+margin: 0 auto;
+justify-content: center;
+align-items: center;
+}
+
